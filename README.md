@@ -1,24 +1,47 @@
-# *What I love*
-  *Teeda Ali Khan*
+# **Author**
+*Teeda Ali Khan| 09/06/2025*
+
+  
 
   ___
   
-  
 
-> "Allah does not task, or burden, a soul beyond what it can bear" 
->- Surah Al-Baqarah (2:286)
+### ***Travel Bucket List***
 
----
-```javascript
-function calculateArea(radius) {
-    return Math.PI * radius * radius;
-}
-  This is an indented code block.
-    It uses four spaces at the beginning of each line.
-    No language specification is needed.
-```
 
-    
+  - [ ] Mallorca, Spain
+  - [x] Madrid, Spain
+  - [ ] Istanbul, Turkey
+  - [ ] Morocco
+
+
+
+
+[Overview of Cordoba, Spain](https://www.britannica.com/place/Cordoba-Spain)
+
+
+***
+Notable food spots in Spain
+1. Local Moroccan restaurants in Cordoba
+2. Spanish Cafes, both day and night
+3. Pasta in Grenada, Spain
+***
+
+
+
+
+#### ***Current interests***
+
+
+- Government restructuring
+- 
+- Third item
+
+
+
+
+
+
 
 
 
