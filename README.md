@@ -1,8 +1,8 @@
-# **Author**
-*Teeda Ali Khan| 09/06/2025*
-
+# **Teeda Ali Khan**
+  |09/06/2025|
   
 
+  
   ___
   
 
@@ -15,9 +15,6 @@
   - [ ] Morocco
 
 
-***
-
-[Overview of Cordoba, Spain](https://www.britannica.com/place/Cordoba-Spain)
 
 
 ***
@@ -42,48 +39,42 @@ Notable food spots in Spain
 ___
 >“Allah does not burden a soul beyond that it can bear.” (Qur’an 2:286)
 
-___
 
-```python
-def greet():
-    return f"Hello, {name}!"
+***
 
-print(greet("World"))
-```
+[Montgomery County Humane Society][mc-link] is an amazing organization for those looking for low-cost veterinary care!
 
- Montgomery College Logo
-
-[![Montgomery College Logo](MClogo.png)](https://www.montgomerycollege.edu)
-[![My cat](catpic.png)](https://www.mchumane.org)
+[mc-link]:https://www.mchumane.org/
 
 
-console.log(calculateArea(5));
+***
+
+#### My cat, Kit<3
 
 
-Markdown Syntax:
 
-```javascript
-function calculateArea(radius) {
-    return Math.PI * radius * radius;
-}
 
-console.log(calculateArea(5));
-```
+<img width="110" height="400" alt="image" src="https://github.com/user-attachments/assets/6dc2d9b0-236a-45a3-baca-bb674874cf45" />
 
-Indented Code Blocks
+***
 
     This is an indented code block.
     It uses four spaces at the beginning of each line.
     No language specification is needed.
 
 
-Markdown Syntax:
+---
+## Comparing Markdown to HTML
 
-    This is an indented code block.
-    It uses four spaces at the beginning of each line.
-    No language specification is needed.
+| HTML | Markdown |
+|------|-------------|
+|HTML| offers more advanced website styling tools |
+| Markdown | Focuses on Basic text formatting and structure |
 
-Horizontal Lines
+
+
+
+
 
 
 
